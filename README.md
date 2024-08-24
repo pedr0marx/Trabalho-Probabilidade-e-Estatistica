@@ -1,1 +1,1 @@
-# Trabalho-Probabilidade-e-Estat-stica
+# Trabalho-Probabilidade-e-Estatística
