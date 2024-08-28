@@ -22,7 +22,7 @@ Introdução e motivação:
 
  
 
-A febre amarela é uma doença infecciosa causada por um vírus transmitido principalmente por mosquitos. Embora não seja extremamente comum no Brasil, com menos de 15 mil casos anuais, a febre amarela continua a ser uma preocupação significativa devido ao seu potencial de letalidade. A doença pode levar a complicações graves e, em alguns casos, à morte, especialmente em áreas onde a vacinação não é amplamente praticada ou onde o controle de vetores é insuficiente. 
+A febre amarela é uma doença infecciosa causada por um vírus transmitido principalmente por mosquitos. Embora não seja extremamente comum no Brasil, com poucos casos anuais (de acordo com base de dados da Organização Pan-Americana de Saúde e do SUS), a febre amarela continua a ser uma preocupação significativa devido ao seu potencial de letalidade, cerca de 33% de taxa de letalidade. A doença pode levar a complicações graves e, em alguns casos, à morte, especialmente em áreas onde a vacinação não é amplamente praticada ou onde o controle de vetores é insuficiente. 
 
 A análise dos casos de febre amarela em humanos no Brasil ao longo dos últimos 30 anos (1994-2023) é crucial para compreender a dinâmica da doença, identificar padrões epidemiológicos e avaliar a eficácia das medidas de controle e prevenção implementadas. Além disso, esse estudo pode ajudar a identificar áreas de maior risco e a necessidade de intervenções mais intensivas, como campanhas de vacinação e estratégias de controle de mosquitos. 
 
@@ -50,4 +50,4 @@ Material e método:
 
  
 
-Para tal análise utilizaremos a ferramenta estatística R para analisar os dados, construir gráficos e a partir do que aprendemos nas aulas faremos uma análise descritiva dos dados. Utilizaremos os dados fornecidos pelo Ministérios da Saúde e SUS (https://opendatasus.saude.gov.br/dataset/febre-amarela-em-humanos-e-primatas-nao-humanos).  
+Para tal análise utilizaremos a ferramenta estatística R para analisar os dados, construir gráficos e a partir do que aprendemos nas aulas faremos uma análise descritiva dos dados. Utilizaremos os dados fornecidos pelo Ministérios da Saúde e SUS (https://opendatasus.saude.gov.br/dataset/febre-amarela-em-humanos-e-primatas-nao-humanos) os quais mostram dados como quantidade de infectados, óbitos, data de infecção, região, estado e cidade. Além disso, utilizaremos bases de dados do INMET (https://portal.inmet.gov.br/normais#) para complementar em nossa análise e a base do PAHO (Organização Pan-Americana de Saúde) https://ais.paho.org/phip/viz/ed_yellowfever.asp.  
