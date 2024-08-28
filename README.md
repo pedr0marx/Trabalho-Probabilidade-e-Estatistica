@@ -34,7 +34,7 @@ Objetivo e perguntas a serem feitas e respondidas:
 
  
 
-    A taxa de infecções por ano/estação varia de acordo com a região do país? (Qual a escala de observação adequada (Região/estado/município)? 
+    A taxa de infecções por ano/estação varia de acordo com a região do país?
 
     A taxa de infecções por ano/estação tem variado com o tempo? Se sim, será que tem relação com a temperatura e a precipitação? 
 
@@ -42,9 +42,7 @@ Objetivo e perguntas a serem feitas e respondidas:
 
     Existe relação entre taxa de mortalidade por febre amarela e idade/sexo das pessoas infectadas? 
 
-    Analisar quais estados têm maior números de óbitos e infectados. 
-
-    Existe relação entre taxa de infecção e/ou mortalidade com o estado (estudar o quanto é investido em saúde pública por estado, analisar o tamanho da população de cada estado e fazer comparações entre os estados do país)? 
+    Quais estados possuem o maior número de mortalidades e/ou infecções?
 
  
 
