@@ -26,7 +26,7 @@ A febre amarela é uma doença infecciosa causada por um vírus transmitido prin
 
 A análise dos casos de febre amarela em humanos no Brasil ao longo dos últimos 30 anos (1994-2023) é crucial para compreender a dinâmica da doença, identificar padrões epidemiológicos e avaliar a eficácia das medidas de controle e prevenção implementadas. Além disso, esse estudo pode ajudar a identificar áreas de maior risco e a necessidade de intervenções mais intensivas, como campanhas de vacinação e estratégias de controle de mosquitos. 
 
-Este trabalho tem como objetivo analisar a distribuição temporal e geográfica dos casos de febre amarela no Brasil, identificar fatores associados aos surtos e avaliar o impacto que a doença tem em cada estado do país e como isso pode ser consequência das condições econômicas e sociais desses estados. A motivação para este estudo surge da necessidade de melhorar o entendimento sobre a epidemiologia da febre amarela no país e contribuir para o desenvolvimento de políticas de saúde pública mais eficazes. 
+Este trabalho tem como objetivo analisar a distribuição temporal e geográfica dos casos de febre amarela no Brasil, identificar fatores associados aos surtos e avaliar o impacto que a doença tem em cada estado do país e como isso pode ser consequência das condições ambientas dessas regiões, estados e cidades. A motivação para este estudo surge da necessidade de melhorar o entendimento sobre a epidemiologia da febre amarela nos últimos anos no país e contribuir para o desenvolvimento de políticas de saúde pública mais eficazes.
 
  
 
