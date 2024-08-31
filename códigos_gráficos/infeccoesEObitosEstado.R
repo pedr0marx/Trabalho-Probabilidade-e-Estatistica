@@ -1,9 +1,7 @@
-# Carregar os pacotes necessários
 library(readxl)
 library(dplyr)
 library(ggplot2)
 
-# Supondo que você já tenha carregado os dados no dataframe 'data'
 data_summary <- data %>%
   group_by(UF_LPI, OBITO) %>%  # Agrupar por estado e óbito
   summarise(Count = n()) %>%   # Contar o número de registros
