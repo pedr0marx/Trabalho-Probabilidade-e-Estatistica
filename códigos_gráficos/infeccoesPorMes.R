@@ -6,7 +6,6 @@ require(readr)
 require(dplyr)
 
 
-# Carregar os pacotes necessários
 library(readxl)
 library(dplyr)
 library(ggplot2)
