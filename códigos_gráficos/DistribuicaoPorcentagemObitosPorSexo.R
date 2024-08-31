@@ -1,9 +1,7 @@
-# Carregar os pacotes necessários
 library(readxl)
 library(dplyr)
 library(ggplot2)
 
-# Carregar os dados do arquivo Excel (ajuste o caminho e nome do arquivo conforme necessário)
 data <- read_excel("C:/Users/Pichau/OneDrive/Área de Trabalho/prob/fa_casoshumanos_1994-2023(1).xlsx")
 
 # Verificar as primeiras linhas dos dados para confirmar que foram carregados corretamente
