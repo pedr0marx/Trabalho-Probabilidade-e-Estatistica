@@ -1,9 +1,7 @@
-# Carregar os pacotes necessários
 library(readxl)
 library(dplyr)
 library(ggplot2)
 
-# Supondo que você já tenha carregado os dados no dataframe 'data'
 # Calcular o total de infecções por estado
 data_summary <- data %>%
   group_by(UF_LPI) %>%  # Agrupar por estado
